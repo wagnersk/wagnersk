@@ -3,7 +3,6 @@
 
 - 🌱 Hoje em dia sou militar
 - 👯 Estudando React-Native com Typescript!
-- 😄 Pronouns: ele/dele
 -->
 
 ##
